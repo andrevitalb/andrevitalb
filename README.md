@@ -1,5 +1,9 @@
 ## Hi there, I'm [André][website]
 
+<a align="right" href="https://spotify-now-playing.andrevitalb.vercel.app/now-playing?open" target="_blank">
+    <img src="https://spotify-now-playing.andrevitalb.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 ### Connect with me:
 
 <a href="https://andrevital.com/" target="_blank">
@@ -21,8 +25,9 @@
 <br/>
 <br/>
 
-___
-### Languages & Tools:
+---
+
+### My main languages & tools:
 
 [<img alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />](#)
 &nbsp;&nbsp;
