@@ -1,8 +1,12 @@
-## Hi there, I'm [André][website]
+<p align="right">
+    <a href="https://spotify-now-playing.andrevitalb.vercel.app/now-playing?open" target="_blank">
+        <img src="https://spotify-now-playing.andrevitalb.vercel.app/now-playing" width="256" height="64" alt="Now Playing"  align="right">
+    </a>
+</p>
 
-<a align="right" href="https://spotify-now-playing.andrevitalb.vercel.app/now-playing?open" target="_blank">
-    <img src="https://spotify-now-playing.andrevitalb.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
-</a>
+<p align="center">
+    <h1>Hi there, I'm <a href="https://andrevital.com/" target="_blank">André</a></h1>
+</p>
 
 ### Connect with me:
 
