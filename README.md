@@ -1,7 +1,7 @@
 ## Hi there, I'm [André][website]
 
 <a align="right" href="https://spotify-now-playing.andrevitalb.vercel.app/now-playing?open" target="_blank">
-    <img src="https://spotify-now-playing.andrevitalb.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+    <img src="https://spotify-now-playing.andrevitalb.vercel.app/now-playing" width="256" height="64" alt="Now Playing">
 </a>
 
 ### Connect with me:
