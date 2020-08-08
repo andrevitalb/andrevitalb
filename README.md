@@ -4,27 +4,31 @@
     </a>
 </p>
 
-<p align="center">
+<p align="left">
     <h1>Hi there, I'm <a href="https://andrevital.com/" target="_blank">André</a></h1>
 </p>
 
-### Connect with me:
+<p align="left">
+    <h3>Connect with me:</h3>
+</p>
 
-<a href="https://andrevital.com/" target="_blank">
-    <img alt"andrevital.com" width="25px" src="https://www.andrevital.com/images/logo_contained_negative.svg">
-</a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/andrevitalb/" target="_blank">
-    <img alt"André Vital | LinkedIn" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg">
-</a>
-&nbsp;&nbsp;
-<a href="https://twitter.com/andrevitalb" target="_blank">
-    <img alt"André Vital | Twitter" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg">
-</a>
-&nbsp;&nbsp;
-<a href="https://instagram.com/im_andrevital" target="_blank">
-    <img alt"André Vital | Instagram" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg">
-</a>
+<p align="right">
+    <a href="https://andrevital.com/" target="_blank">
+        <img alt"andrevital.com" width="25px" src="https://www.andrevital.com/images/logo_contained_negative.svg">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/andrevitalb/" target="_blank">
+        <img alt"André Vital | LinkedIn" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/andrevitalb" target="_blank">
+        <img alt"André Vital | Twitter" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg">
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/im_andrevital" target="_blank">
+        <img alt"André Vital | Instagram" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg">
+    </a>
+</p>
 
 <br/>
 <br/>
