@@ -41,8 +41,6 @@
 &nbsp;&nbsp;
 [<img alt="JavaScript" width="28px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />](#)
 &nbsp;&nbsp;
-[<img alt="Firebase" width="22px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />](#)
-&nbsp;&nbsp;
 [<img alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](#)
 &nbsp;&nbsp;
 [<img alt="Angular" width="28px" src="https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png" />](#)
@@ -51,5 +49,13 @@
 &nbsp;&nbsp;
 [<img alt="Python" width="28px" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png">](#)
 &nbsp;&nbsp;
+[<img alt="Django" width="28px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fdjango-logo-png-transparent.png&f=1&nofb=1">](#)
+&nbsp;&nbsp;
+[<img alt="NodeJS" width="28px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpluspng.com%2Fimg-png%2Fnodejs-logo-png-show-images-in-console-with-node-js-console-png-600.png&f=1&nofb=1">](#)
+&nbsp;&nbsp;
+[<img alt="Firebase" width="22px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />](#)
+&nbsp;&nbsp;
+
+
 
 [website]: https://andrevital.com/
