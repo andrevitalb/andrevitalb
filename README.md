@@ -11,7 +11,7 @@
 ### Connect with me:
 
 <a href="https://andrevital.com/" target="_blank">
-    <img alt="andrevital.com" width="25px" src="https://www.andrevital.com/images/logo_contained_negative.svg">
+    <img alt="andrevital.com" width="25px" src="https://andrevital.com/images/logo_contained--negative.svg">
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/andrevitalb/" target="_blank">
