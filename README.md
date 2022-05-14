@@ -58,8 +58,4 @@
 [<img alt="Firebase" width="22px" src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" />](#)
 &nbsp;&nbsp;
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrevitalb&layout=compact&hide=php,css)](https://github.com/andrevitalb)
-
 [website]: https://andrevital.com/
