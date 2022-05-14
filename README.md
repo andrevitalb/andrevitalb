@@ -60,6 +60,6 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrevitalb&layout=compact)](https://github.com/andrevitalb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrevitalb&layout=compact&hide=php,css)](https://github.com/andrevitalb)
 
 [website]: https://andrevital.com/
