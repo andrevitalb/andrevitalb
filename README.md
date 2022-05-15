@@ -15,15 +15,15 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/andrevitalb/" target="_blank">
-    <img alt="André Vital | LinkedIn" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409945.svg">
+    <img alt="André Vital | LinkedIn" width="25px" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png">
 </a>
 &nbsp;&nbsp;
 <a href="https://twitter.com/andrevitalb" target="_blank">
-    <img alt="André Vital | Twitter" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409937.svg">
+    <img alt="André Vital | Twitter" width="25px" src="https://seeklogo.com/images/T/twitter-logo-A84FE9258E-seeklogo.com.png">
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/im_andrevital" target="_blank">
-    <img alt="André Vital | Instagram" width="25px" src="https://image.flaticon.com/icons/svg/1409/1409946.svg">
+    <img alt="André Vital | Instagram" width="25px" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png">
 </a>
 
 <br/>
